@@ -1,5 +1,5 @@
 phpbrew install -j $(nproc) php-7.1.10 \
-+apxs2 +bcmath +bz2 +calendar +cli +ctype +curl +dom \
++apxs2 +bcmath +bz2 +calendar +cli +ctype +curl +dom +exif \
 +fileinfo +filter +fpm +ftp +gd +gettext +iconv +intl +ipc +json +ldap \
 +mbregex +mbstring +mhash +mcrypt +mysql +opcache \
 +openssl \
